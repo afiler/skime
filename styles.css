@@ -1,0 +1,83 @@
+/* Elements */
+
+body {
+	font-family: "Verdana","Arial",san-serif;
+}
+
+img {
+	border: 0;
+}
+
+table {
+	border-collapse: collapse;
+	font-family: "Verdanna", "Arial", sans-serif;
+	font-size: x-small;
+}
+
+/* Classes */
+.field_header {
+	font-weight: bold;
+}
+
+.form_row_data {
+	background: #EEEEEE;
+}
+
+.form_row_label {
+	background: #A0C0A0;
+	text-align: right;
+	vertical-align: top;
+}
+
+.page_header {
+	background: #FFFFFF;
+	color: #000000;
+	font-size: medium;
+	font-weight: bold;
+	text-align: center;
+}
+
+.region_header {
+	background: #CCCCCC;
+	color: #000000;
+	font-size: small;
+	padding: 3px;
+	text-align: center;
+}
+
+.rowset_edit_link {
+	background: #EEEEEE;
+}
+
+.rowset_header {
+	background: #A0C0A0;
+	color: #000000;
+	font-size: x-small;
+	font-weight: bold;
+	text-align: center;
+}
+
+.rowset_row_data {
+	background: #EEEEEE;
+}
+
+.top_header_row1 {
+	background: #101080;
+	vertical-align: middle;
+}
+
+.top_header_row2 {
+	background: #DDDDDD;
+}
+
+.top_header_table {
+	cell-padding: 0;
+	cell-spacing: 0;
+	width: "100%";
+}
+
+.top_header_text {
+	color: #FFFFFF;
+	font-size: 180%;
+	font-weight: bold;
+}
